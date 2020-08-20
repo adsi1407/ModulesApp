@@ -1,1 +1,1 @@
-Aplicación de ejemplo con módulos principales de una arquitectura enfocada en DDD
+Aplicación de ejemplo en Android Nativo con módulos principales de una arquitectura enfocada en DDD
